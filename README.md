@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I’m Dhyanesh 👋
 
-<!--
-**DhyaneshV/DhyaneshV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- Computer Science undergraduate (2nd year)
+- Curious about Machine Learning, NLP, and consulting-style problem solving
+- I enjoy breaking down problems, understanding how things work, and building solutions step by step
 
-Here are some ideas to get you started:
+### Tech Stack
+- Languages: Python, Java, C, C++
+- Databases: SQL
+- Frameworks: Flask, Streamlit
+- ML / Data: Pandas, NumPy, scikit-learn
+- Tools: Git, GitHub, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I’m Working On
+- Strengthening my fundamentals in Machine Learning
+- Exploring NLP using spaCy
+- Gradually working towards neural networks and deeper models
+
+### Collaboration
+- Open to collaborating on projects and learning together
+- Interested in analytical problems, ML use cases, and consulting-oriented challenges
+- Feel free to reach out if you want to discuss ideas, projects, or just exchange perspectives
+
+### Projects Projects coming soon
