@@ -22,4 +22,3 @@
 - Interested in analytical problems, ML use cases, and consulting-oriented challenges
 - Feel free to reach out if you want to discuss ideas, projects, or just exchange perspectives
 
-### Projects Projects coming soon
