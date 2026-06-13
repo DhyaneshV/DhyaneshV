@@ -5,17 +5,18 @@
 - Curious about Machine Learning, NLP, and consulting-style problem solving
 - I enjoy breaking down problems, understanding how things work, and building solutions step by step
 
-### Tech Stack
-- Languages: Python, Java, C, C++
-- Databases: SQL
-- Frameworks: Flask, Streamlit
-- ML / Data: Pandas, NumPy, scikit-learn
-- Tools: Git, GitHub, Linux
 
-### What I’m Working On
-- Strengthening my fundamentals in Machine Learning
-- Exploring NLP using spaCy
-- Gradually working towards neural networks and deeper models
+### Tech Stack
+- **Languages:** Python, Java, C/C++, SQL, JavaScript
+- **ML / DL / NLP:** scikit-learn, TensorFlow/Keras, XGBoost, CatBoost, SBERT, BERT, LayoutLMv3
+- **OCR & AI:** AWS Textract, PaddleOCR, Amazon Nova Vision, Gemini API, ONNX Runtime
+- **Backend:** FastAPI, Flask, REST APIs, GraphQL, JWT
+- **Databases:** MongoDB, DynamoDB, PostgreSQL, Redis
+- **Cloud & DevOps:** AWS (Lambda, Bedrock, Textract, S3), Docker, GitHub Actions, Azure CI/CD
+  
+- ### What I'm Working On
+- Building production ML systems and exploring cloud architecture
+- Working on real-world full-stack and AI engineering problems
 
 ### Collaboration
 - Open to collaborating on projects and learning together
