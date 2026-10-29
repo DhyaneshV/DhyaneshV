@@ -1,7 +1,7 @@
 # Hi, I'm Dhyanesh 👋
 
 ## About Me
-- Computer Science undergraduate at VIT-AP (CGPA 8.55)
+- Computer Science undergraduate at VIT-AP 
 - Built production AI and full-stack systems during my internship at Inforios Software Technologies
 - Curious about Machine Learning, NLP, and consulting-style problem solving
 - I enjoy breaking down problems, understanding how things work, and building solutions step by step
